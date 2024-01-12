@@ -1,8 +1,8 @@
-<h3 style="color: white;">I help teams make money by facilitating secure, efficient deployments and optimizing cloud architecture. From working at one of the world's largest advisory firms to being the first engineer hired at a startup, my broad expeirence positions me as a dynamic professional comfortable implementing techncical solutions, interfacing with clients, and everything in between.</h3>
+<h2 style="color: white;">I help teams make money by facilitating secure, efficient deployments and optimizing cloud architecture. From working at one of the world's largest advisory firms to being the first engineer hired at a startup, my broad expeirence positions me as a dynamic professional comfortable implementing techncical solutions, interfacing with clients, and everything in between.</h2>
 
 ---
 
-<h2 style="color: white;">Connect with Me on LinkedIn</h2>
+<h3 style="color: white;">Connect with Me on LinkedIn</h3>
 
 <div style="display: inline-block; text-decoration: none;">
   <a href="https://www.linkedin.com/in/cjacksonbryant">
@@ -12,7 +12,7 @@
 
 <br style="line-height:0px;" />
 
-<h2 style="color: white;">Work Together</h2>
+<h3 style="color: white;">Work Together</h3>
 
 <div style="display: inline-block; text-decoration: none;">
   <a href="https://www.upwork.com/freelancers/~01681ecf2a8ffe6d9f">
