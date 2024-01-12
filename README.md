@@ -1,5 +1,4 @@
 Connect with Me on LinkedIn:
-
 <div style="display: inline-block; text-decoration: none;">
   <a href="https://www.linkedin.com/in/cjacksonbryant">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
@@ -7,7 +6,6 @@ Connect with Me on LinkedIn:
 </div>
 
 Work Together:
-
 <div style="display: inline-block; text-decoration: none;">
   <a href="https://www.upwork.com/freelancers/~01681ecf2a8ffe6d9f">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork">
