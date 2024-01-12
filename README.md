@@ -6,6 +6,14 @@ Connect with me on LinkedIn
   </a>
 </div>
 
+Work Together
+
+<div style="display: inline-block; text-decoration: none;">
+  <a href="https://www.upwork.com/freelancers/~01681ecf2a8ffe6d9f">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork">
+  </a>
+</div>
+
 ---
 
 Tech Stack
