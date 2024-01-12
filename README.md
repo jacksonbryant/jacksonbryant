@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&color=%23777&repeat=false&random=false&width=435&lines=Hi%2C+I'm+Jackson." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&color=0099FF&repeat=false&random=false&width=435&lines=Hi%2C+I'm+Jackson." alt="Typing SVG" /></a>
 ---
 
 <h3 style="color: white;">I help teams make money by facilitating secure, efficient deployments and optimizing cloud architecture. From working at one of the world's largest advisory firms to being the first engineer hired at a startup, my broad expeirence positions me as a dynamic professional comfortable implementing techncical solutions, interfacing with clients, and everything in between.</h3>
