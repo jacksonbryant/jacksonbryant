@@ -5,7 +5,7 @@
 
 ---
 
-<h3 style="color: white;">Connect with Me on LinkedIn</h3>
+<h3 style="color: white;">Connect with Me
 
 <div style="display: inline-block; text-decoration: none;">
   <a href="https://www.linkedin.com/in/cjacksonbryant">
@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<br style="line-height:0px;" />
+---
 
 <h3 style="color: white;">Work Together</h3>
 
