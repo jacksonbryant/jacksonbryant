@@ -5,7 +5,7 @@
 
 ---
 
-<h3 style="color: white;">Connect with Me</h3>
+Connect with Me
 
 <div style="display: inline-block; text-decoration: none;">
   <a href="https://www.linkedin.com/in/cjacksonbryant">
@@ -15,7 +15,7 @@
 
 ---
 
-<h3 style="color: white;">Work Together</h3>
+Work Together
 
 <div style="display: inline-block; text-decoration: none;">
   <a href="https://www.upwork.com/freelancers/~01681ecf2a8ffe6d9f">
@@ -25,7 +25,7 @@
 
 ---
 
-<h3 style="color: white;">Tech Stack</h3>
+Tech Stack
 
 <div align="left">
   <img alt="AWS" width="80px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" style="padding: 5px;">
