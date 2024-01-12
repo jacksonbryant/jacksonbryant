@@ -29,6 +29,7 @@ Tech Stack
 
 <div align="left">
   <img alt="AWS" width="80px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" style="padding: 5px;">
+  <img alt="GCP" width="80px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/gcp/gcp.png" style="padding: 5px;">
   <img alt="Docker" width="80px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/docker/docker.png" style="padding: 5px;">
   <img alt="Kubernetes" width="80px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/kubernetes/kubernetes.png" style="padding: 5px;">
   <img alt="Ansible" width="80px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/ansible/ansible.png" style="padding: 5px;">
