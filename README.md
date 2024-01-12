@@ -5,7 +5,7 @@
 
 ---
 
-<h3 style="color: white;">Connect with Me
+<h3 style="color: white;">Connect with Me</h3>
 
 <div style="display: inline-block; text-decoration: none;">
   <a href="https://www.linkedin.com/in/cjacksonbryant">
