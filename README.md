@@ -1,4 +1,4 @@
-Connect with me on LinkedIn
+Connect with Me on LinkedIn
 
 <div style="display: inline-block; text-decoration: none;">
   <a href="https://www.linkedin.com/in/cjacksonbryant">
