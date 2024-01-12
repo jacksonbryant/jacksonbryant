@@ -5,6 +5,14 @@
 
 ---
 
+Past Projects
+
+* Built a large Terraform configuration for deploying AWS infrastructure and automating Apache NiFI setup for a cyber analytics engine, reducing time-to-production from days to hours
+* Consulted for a federal healthcare client regarding cloud architecture and security best practices
+* Maintained various cloud infrastructure platforms including Kubernetes, Fargate, and GitHub Actions
+* Leveraged AWS Security Hub to eliminate environment security risks
+---
+
 Connect with Me
 
 <div style="display: inline-block; text-decoration: none;">
