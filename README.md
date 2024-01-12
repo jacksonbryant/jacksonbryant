@@ -6,7 +6,7 @@ Connect with Me on LinkedIn
   </a>
 </div>
 
-<br
+<br>
 </br>
 
 Work Together
