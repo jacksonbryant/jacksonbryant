@@ -1,3 +1,13 @@
+Connect with me on LinkedIn
+
+<div style="display: inline-block; text-decoration: none;">
+  <a href="https://www.linkedin.com/in/cjacksonbryant">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+---
+
 Tech Stack
 
 <div align="left">
