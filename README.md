@@ -6,6 +6,7 @@ Connect with me on LinkedIn
   </a>
 </div>
 
+
 Work Together
 
 <div style="display: inline-block; text-decoration: none;">
