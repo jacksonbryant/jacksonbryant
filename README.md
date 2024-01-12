@@ -5,7 +5,9 @@ Connect with Me on LinkedIn:
     <img src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+
 <br style="line-height:0px;" />
+
 Work Together:
 
 <div style="display: inline-block; text-decoration: none;">
