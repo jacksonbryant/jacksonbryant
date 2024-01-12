@@ -5,12 +5,13 @@
 
 ---
 
-Past Projects
+About Me
 
 * Built a large Terraform configuration for deploying AWS infrastructure and automating Apache NiFI setup for a cyber analytics engine, reducing time-to-production from days to hours
 * Performed initial cloud migration prototyping testing for on-premises big data applications
 * Consulted for a federal healthcare client regarding cloud architecture and security best practices
 * Performed routine maintenance in cloud environments and on Kubernetes clusters
+* Currently open to freelance work in Cloud / DevOps engineering and technology advisory roles
 ---
 
 Connect with Me
