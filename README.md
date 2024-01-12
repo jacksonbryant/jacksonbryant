@@ -1,5 +1,5 @@
 <h3 style="color: white;">Hi, I'm Jackson.
-
+<br style="line-height:0px;" />
 I increase teams' bottom lines via facilitating secure, efficient infrastructure deployments and optimizing cloud architecture. From working at one of the world's largest advisory firms to being the first engineer hired at a startup, my broad expeirence positions me as a dynamic professional comfortable implementing techncical solutions, interfacing with clients, and everything in between.</h3>
 
 ---
